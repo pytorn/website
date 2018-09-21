@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://pytorn.org/"
 languageCode = "en-us"
 title = "PyTorn"
 theme = "kube"
+publishDir = "public"
