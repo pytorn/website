@@ -1,0 +1,4 @@
+baseURL = "https://pytorn.org"
+languageCode = "en-us"
+title = "PyTorn"
+theme = "kube"
